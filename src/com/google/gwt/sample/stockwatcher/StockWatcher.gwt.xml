@@ -1,9 +1,14 @@
 <module>
 	<inherits name="com.google.gwt.user.User"/>
+	
 	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	
 	<entry-point class="com.google.gwt.sample.stockwatcher.client.StockWatcher"/>
+	
 	<inherits name="com.google.gwt.i18n.I18N"/>
+	
 	<inherits name="com.google.gwt.place.Place"/>
+	
 	<extend-property name="locale" values="sv"/>
 	
 	<inherits name="com.google.gwt.activity.Activity"/>
