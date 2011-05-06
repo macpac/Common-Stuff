@@ -5,9 +5,9 @@
 	<inherits name="com.google.gwt.i18n.I18N"/>
 	<inherits name="com.google.gwt.place.Place"/>
 	<extend-property name="locale" values="sv"/>
-	<!-- replace-with class="com.google.gwt.sample.stockwatcher.client.ClientFactoryImpl">
-    	<when-type-is class="com.google.gwt.sample.stockwatcher.client.ClientFactory"/>
-    </replace-with -->
+	<!--  replace-with class="com.google.gwt.sample.stockwatcher.client.ClientFactoryImpl">
+    	<when-type-is  class="com.google.gwt.sample.stockwatcher.client.ClientFactory"/>
+    </replace-with  -->
 	
 	<inherits name="com.google.gwt.activity.Activity"/>
 	
