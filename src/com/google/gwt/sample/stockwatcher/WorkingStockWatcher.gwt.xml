@@ -1,0 +1,5 @@
+<module rename-to="com.google.gwt.sample.stockwatcher.StockWatcher">
+	<inherits name="com.google.gwt.sample.stockwatcher.StockWatcher"/>
+ 	<set-property name="user.agent" value="safari" />
+    <set-property name="locale" value="default" />
+</module>
